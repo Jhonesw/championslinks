@@ -1,0 +1,821 @@
+div#interface {
+    width: 900px;
+    height: 2700px;
+    background-color: #000000;
+    margin: auto;
+}
+
+header {
+    position: relative;
+    width: 900px;
+    height: 300px;
+      background-image: linear-gradient(blue,black 200px);
+}
+
+header h1{
+    position: relative;
+    left: 210px;
+    font-size: 60px;
+    color: aliceblue;
+    top: 15px;
+}
+
+#interface audio{
+    position: absolute;
+    left: 310px;
+    top: 200px;
+   
+}
+
+img#simbolo{
+    display: flex;
+    width: 230px;
+    height: 230px;
+    left:5px;
+    top: -20px;
+    filter: drop-shadow(1px 1px 0px #dcb805);
+} /*-------------------------------simbolo champions */
+
+
+
+
+
+
+
+#frase1{
+    position: relative;
+    top: -240px;
+    left: 234px;
+}
+
+img#monstro{
+    position: relative;
+    top: -170px;
+    width: 220px;
+    height: 150px;
+    left: 715px;
+}
+img#monstro2{
+    position: relative;
+    top: -170px;
+    width: 150px;
+    height: 150px;
+    left: 430px;
+}
+img#monstro3{
+    position: relative;
+    top: -160px;
+    width: 200px;
+    height: 150px;
+    left: 380px;
+}
+
+
+
+
+
+
+.h2 {
+    font-size: 18px;
+    color: aliceblue;
+}
+
+
+.time {
+    width: 50px;
+    height: 50px;
+}
+
+#raizes{
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    top: -1150px;
+}/*--------------------------------------------------------------icono raizes*/
+
+#figure1 img{     
+    top: -210px;
+    left:170px;
+    margin: 20px;
+}/*-------------------------------------------------------------DIVI DOS TIMES------------*/
+
+
+/*       section 1*/
+#meio{
+   
+}
+.fly {
+    position: relative;
+     top: 10px;
+     filter: drop-shadow(6px 0px 10px #1b1a1a);
+     overflow: hidden;
+     width: 400px;
+     height: 490px;
+     left: 0px;
+ border: 1px solid black;
+ border-radius: 10px;
+ }
+
+.container{
+    position: relative;
+    top: 104px;
+    display: flex;
+    transition: 0.7s ease-in-out;
+    transform: translateX(0);
+    
+}
+
+img{
+   position: relative;
+    margin-top: -100px;
+    width: 400px;
+    height: 487px;
+}
+
+
+#seção1 {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width:890px;
+    height: 500px;
+    background-color: rgb(240, 248, 255);
+
+}
+
+#noticias{
+    position: relative;
+    left: px;
+    top: 5px;
+    border: 1px solid #000000;
+    width: 575px;
+    height: 484px;
+    background-image: url(./CAMPO.jpg);
+}
+
+#noticias fieldset{
+    color: #edd609;
+    width: 500px;
+    position: relative;
+    margin-top: 60px;
+    top: -20px;
+    left: px;
+    }
+    
+#noticias fieldset P{
+background-color: #0d09f436;
+}
+    
+    /*--------------------SEÇÃO 2 -------------------------------------------------------------*/
+
+#seção2{
+        display: flex;
+        position: relative;    
+        left: 5px;
+        margin-top: 3px;
+      width: 890px;
+      height: 400px;
+      background-image: url(./imagem\ campo\ seção\ 2.jpg);
+      }
+      .corrid{
+        text-align: center;
+        width: 280px;
+        height: 380px;
+        margin: auto;
+      }
+      #defesa h2,  h4{
+        margin-top: -15px;
+      }
+      #defesa h2{
+
+        text-shadow: black;
+        color: #ded70c;
+      }
+    
+      #desfesa p{
+        margin-top:
+          }
+       img#defesa{
+        display: flex;
+        left: 63px;
+        top: 90px;
+        width: 150px;
+        height: 150px;
+
+       }
+
+      .corrida{
+        background-color: #13131234;
+        width: 280px;
+        height: 380px;
+        margin: auto;
+      }
+      .corrida:hover{
+        background-color: #00000080;
+      }
+      #defesa1{
+        left: 0px;
+        color: #cfcbcb;
+      }
+
+      #defesa1 h3{
+        position: relative;
+        left: -110px;
+        margin-top: -20px;
+      }
+     #defesa1 h3, p {
+        position: relative;
+        left: 10px;
+     }
+     
+    #artilheiro table{
+        background-image: image();
+        display: flexbox;   
+        margin: auto;
+        position: relative;
+        top: 1px;
+        
+        
+    }  
+    #artilheiro table th,tr,p{
+        margin-top: 10px;
+        text-align: left;
+       
+         
+     }
+     #parada table{
+        
+        display: flexbox;   
+         margin: auto;
+         position: relative;
+         
+         
+     }
+     #parada table th,tr p{
+        margin-top: 10px;
+        text-align: left; 
+        color: rgb(238, 241, 9);            
+     }
+
+
+     #artilheiro h3{
+        color: #cfcbcb;
+        display: flex;
+        justify-content: center;
+     }
+     #parada h3{
+        position: relative;
+        color: #c9c5c5;
+        display: flex;
+        justify-content: center;
+        
+     }
+     #imgartilha {
+        position: relative;
+        top: -60px;
+        width: 280px;
+         z-index: 0;
+     }
+     /*-------------------------------------time------------------------------------------*/
+
+     div#time{
+        width: 890px;
+        height: 500px;
+     }
+     
+     img#elenco2{
+        display: flex;
+        width: 890px;
+        height: 450px;
+        top: 130px;
+        left: 5px;
+     }
+
+     .elenco1 {
+        position: relative;
+         top: 0px;
+         filter: drop-shadow(6px 0px 10px #1b1a1a);
+         overflow: hidden;
+         width: 890px;
+         height: 500px;
+     
+     }
+     
+     .container2{
+         position: absolute;
+         display: flex;
+         transition: 0.7s ease-in-out;
+         transform: translateX(0);
+     }
+     
+     img{
+        position: relative;
+         margin-top: -100px;
+         width: 380px;
+         height: 487px;
+     }
+
+     /*--------------------SEÇÃO 3*-------------------------------------------------------*/
+     #seção3{
+    position: relative;
+    left: 5px;
+    margin-top: 3px;
+    background-color: #c9c5c5; 
+    width: 890PX;
+    height: 350PX;
+    }
+    img#boavitória{
+        display: flex;
+        left: 700px;
+        width: 150px;
+        height: 150px;
+        top: -10px;
+    }
+    fieldset p{
+        display: flex;
+        top: 10px;
+        margin-top: 1px;
+        text
+    }
+    .fildset{
+        height: 150px;
+    }
+    #fildset1{
+        color: #c9c5c5;
+background-image: url(./fildset1.jpg);
+    }
+    #fildset2{
+        background-image: url(./fildset2.jpg);
+    }
+    legend{
+        color: #000;
+        background-color: #f4f1f1;
+    }
+    img#fildset2{
+        display: flex;
+        left: 720px;
+        width: 120px;
+        height: 120px;
+        top: -5px;
+    }
+
+/*--------------------------TABELA---------------------------------------------------------------*/
+   .logoTabela{
+    width: 50px;
+    height: 50px;
+   }
+
+   table#campeonato p{
+    margin-bottom:40px;
+   }
+
+
+#fildTable{
+    position: relative;
+    top: 10px;
+    height:500px;
+}
+table#campeonato {
+    position: relative;
+    top: 30px;
+}
+
+img#imgLink{
+    position: absolute;
+    left:540px;
+    width:300px;
+    height: 380px;
+    top: 130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    /*/////////////////////////////////////////////////////////////////////////////////*/
+    @media (max-width:450px ) {
+        div#interface {
+            position: relative;
+            margin: auto;
+            background-color: rgb(10, 9, 9);
+            width: 401px;
+            height: 2600px;
+        }
+   
+    header{
+        width: 400px;
+        height: 120px;
+    }
+
+    header h1{
+        position: relative;
+        left: 162px;
+        font-size: 5px;
+        color: aliceblue;
+        top: 101px;
+    }
+
+
+    #interface audio{
+        position: absolute;
+        left: 40px;
+        top: 200px;
+        z-index: 1;
+        top: 579px;
+       
+    }
+    
+    img#simbolo{
+        position:absolute;
+        width: 120px;
+        height: 100px;
+        left:140px;
+        top: 125px;
+        filter: drop-shadow(1px 1px 0px #dcb805);
+    } /*-------------------------------simbolo champions */
+    
+
+
+    .time {
+        width: 35px;
+        height: 30px;
+    }
+   
+   #figure1{
+    position: relative;
+    box-sizing: border-box;
+   }
+    
+    #figure1 img{     
+        
+        z-index: 1;
+        top: 85px;
+        left:5px;
+        margin: 3px;
+    }/*-----------------------------DIVI DOS TIMES------------*/
+    
+
+
+
+    #frase1{
+        position: relative;
+        top: -240px;
+        left: 234px;
+    }
+    
+
+
+
+    img#monstro{
+        position: relative;
+        top:-26px;
+        width: 120px;
+        height: 100PX;
+        left: -21px;
+        z-index: 0;
+    }
+
+
+    img#monstro3{
+        position: relative;
+        top: -20px;
+        width: 120px;
+        height: 100PX;
+        left: 150px;
+    }
+    div#meio{
+        display: inline;
+    }
+    
+
+    .h2 {
+        font-size: 18px;
+        color: aliceblue;
+    }
+    
+    .fly {
+         position: relative;
+         top: 10px;
+         filter: drop-shadow(6px 0px 10px #1b1a1a);
+         overflow: hidden;
+         width:400px;
+         height: 490px;
+         left: 0px;
+         border: 1px solid black;
+         border-radius: 10px;
+     }
+     
+     .container{
+         position: relative;
+         top: 104px;
+         position: absolute;
+         display: flex;
+         transition: 0.7s ease-in-out;
+         transform: translateX(0);
+         
+     }
+     
+     img{
+        position: relative;
+        margin-top: -110px;
+         width: 400px;
+         height: 487px;
+     }
+     
+     
+     #seção1 {
+        
+         display: flexbox;
+         position: relative;
+         margin: auto;
+         width:400px;
+         height: 500px;
+         background-color: rgb(240, 248, 255);
+     
+     }
+     
+
+
+
+     #noticias{
+        
+         position: absolute;
+
+         top: 500px;
+         border: 1px solid #000000;
+         width: 400px;
+         height: 484px;
+         background-image: url(./CAMPO.jpg);
+     } /*----------------------------------------movimenta noticias*/
+     
+
+
+
+     #noticias fieldset{
+         color: #edd609;
+         width: 360px;
+         position: relative;
+         margin-top: 50px;
+         top: -20px;
+         left: px;
+         }
+         
+     #noticias fieldset P{
+     background-color: #0d09f436;
+     }
+         
+     #seção2{
+        display: flex;
+        position: relative;    
+        left: 0px;
+        margin-top:428px;
+        width:403px;
+        height: 300px;
+        background-image: url(./imagem\ campo\ seção\ 3.jpg);
+      }
+
+      .corrid{
+        text-align: center;
+        width: 280px;
+        height: 380px;
+        margin: auto;
+      }
+
+      #defesa h2,  h4{
+        margin-top: -15px;
+      }
+
+
+      #defesa h3{
+        text-shadow: black;
+        color: #e3dc1a;
+      } /*---------------------------nome do time defesa*/
+    
+      
+
+       img#defesa{
+        display: flex;
+        left: 18px;
+        top: 130px;
+        width: 100px;
+        height: 100px;
+
+       }
+
+      .corrida{
+        background-color: #13131234;
+        width: 280px;
+        height: 380px;
+        margin: auto;
+      }
+      .corrida:hover{
+        background-color: #00000080;
+      }
+      #defesa1{
+        left: 0px;
+        color: #cfcbcb;
+      }
+
+      #defesa1 h3{
+        position: relative;
+        left: -110px;
+        margin-top: -20px;
+      }
+     #defesa1 h3, p {
+        position: relative;
+        left: 10px;
+     }
+     
+    #artilheiro table{
+        background-image: image();
+        display: flexbox;   
+        margin: auto;
+        position: relative;
+        top: 1px;
+        
+        
+    }  
+    #artilheiro table th,tr,p{
+        margin-top: 10px;
+        text-align: left;
+       
+         
+     }
+     #parada table{
+        
+        display: flexbox;   
+         margin: auto;
+         position: relative;
+         
+         
+     }
+     #parada table th,tr p{
+        position: relative;
+        left: 1px;
+        font-size: 10px;
+        margin-top: 10px;
+        text-align: left; 
+        color: rgb(238, 241, 9);            
+     }
+
+
+     #artilheiro h3{
+        color: #cfcbcb;
+        display: flex;
+        justify-content: center;
+     }
+     #parada h3{
+        position: relative;
+        color: #c9c5c5;
+        display: flex;
+        justify-content: center;
+        
+     }
+     #imgartilha {
+        position: relative;
+        top: -60px;
+        width: 280px;
+         z-index: 0;
+     } 
+
+/*---------------------time*/
+
+div#time{
+    width: 400px;
+    height: 250px;
+ }
+ 
+ img#elenco2{
+    display: flex;
+    width: 400px;
+    height: 250px;
+    top: 130px;
+    left: 0px;
+ }
+
+ .elenco1 {
+    position: relative;
+     top: 0px;
+     filter: drop-shadow(6px 0px 10px #1b1a1a);
+     overflow: hidden;
+     width: 400px;
+     height: 300px;
+ 
+ }
+ 
+ .container2{
+     position: absolute;
+     display: flex;
+     transition: 0.7s ease-in-out;
+     transform: translateX(0);
+ }
+ 
+ img{
+    position: relative;
+     margin-top: -125px;
+     width: 400px;
+     height: 487px;
+ }
+
+ /*--------------------SEÇÃO 3*-------------------------------------------------------*/
+ 
+
+
+ #seção3{
+position: relative;
+left: 0px;
+top:-40px;
+background-color: #c9c5c5; 
+width: 400PX;
+height: 350PX;
+}
+
+
+img#boavitória{
+    display: flex;
+    left: 700px;
+    width: 150px;
+    height: 150px;
+    top: -10px;
+}
+fieldset p{
+    display: flex;
+    top: 10px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+.fildset{
+    
+    height: 150px;
+    
+
+
+}
+#fildset1{
+    color: #c9c5c5;
+background-image: url(./fildset1.jpg);
+}
+#fildset2{
+    background-image: url(./fildset2.jpg);
+}
+legend{
+    color: #000;
+    background-color: #f4f1f1;
+}
+img#fildset2{
+    display: flex;
+    left: 720px;
+    width: 120px;
+    height: 120px;
+    top: -5px;
+}
+/*--------------------------TABELA---------------------------------------------------------------*/
+.logoTabela{
+    width: 50px;
+    height: 50px;
+   }
+
+   table#campeonato p{
+    margin-bottom:40px;
+    font-size: 10px;
+   }
+
+
+#fildTable{
+    position: relative;
+    top: 10px;
+    height:500px;
+}
+table#campeonato {
+    position: relative;
+    top: 30px;
+}
+
+img#imgLink{
+    position: absolute;
+    left:70px;
+    width:300px;
+    height: 360px;
+    top: 160px;
+    opacity: 0.1;
+}
+
+
+#fildset2 p{
+    width: 350px;
+    background-color: #0acd1a97;
+}
+#fildset1 p{
+    width: 350px;
+    background-color: #0acd1a12;
+}
+
+    }
